@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.eclipse.core.jobs.nl_.sr Fragment
+Bundle-SymbolicName: org.eclipse.core.jobs.nl_sr
+Bundle-Version: 1.0.0
+Fragment-Host: org.eclipse.core.jobs;bundle-version="[3.4.1,4.0)"
+

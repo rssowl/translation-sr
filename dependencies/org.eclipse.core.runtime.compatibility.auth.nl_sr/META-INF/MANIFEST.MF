@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.eclipse.core.runtime.compatibility.auth.nl_.sr Fragme
+ nt
+Bundle-SymbolicName: org.eclipse.core.runtime.compatibility.auth.nl_sr
+Bundle-Version: 1.0.0
+Fragment-Host: org.eclipse.core.runtime.compatibility.auth;bundle-vers
+ ion="[3.2.100,4.0)"
+

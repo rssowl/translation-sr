@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.eclipse.jface.nl_.sr Fragment
+Bundle-SymbolicName: org.eclipse.jface.nl_sr
+Bundle-Version: 1.0.0
+Fragment-Host: org.eclipse.jface;bundle-version="[3.4.2,4.0)"

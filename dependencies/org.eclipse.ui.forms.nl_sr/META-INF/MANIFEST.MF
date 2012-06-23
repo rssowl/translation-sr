@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.eclipse.ui.forms.nl_.sr Fragment
+Bundle-SymbolicName: org.eclipse.ui.forms.nl_sr
+Bundle-Version: 1.0.0
+Fragment-Host: org.eclipse.ui.forms;bundle-version="[3.3.103,4.0)"
+

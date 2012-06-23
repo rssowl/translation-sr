@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.eclipse.update.core.nl_.sr Fragment
+Bundle-SymbolicName: org.eclipse.update.core.nl_sr
+Bundle-Version: 1.0.0
+Fragment-Host: org.eclipse.update.core;bundle-version="[3.2.202,4.0)"
+

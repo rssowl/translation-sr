@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.eclipse.ui.workbench.nl_.sr Fragment
+Bundle-SymbolicName: org.eclipse.ui.workbench.nl_sr
+Bundle-Version: 1.0.0
+Fragment-Host: org.eclipse.ui.workbench;bundle-version="[3.4.2,4.0)"
+

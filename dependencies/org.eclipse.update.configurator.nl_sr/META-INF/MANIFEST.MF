@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.eclipse.update.configurator.nl_.sr Fragment
+Bundle-SymbolicName: org.eclipse.update.configurator.nl_sr
+Bundle-Version: 1.0.0
+Fragment-Host: org.eclipse.update.configurator;bundle-version="[3.2.20
+ 1,4.0)"
+
